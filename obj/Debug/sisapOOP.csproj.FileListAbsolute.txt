@@ -1,0 +1,7 @@
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\bin\Debug\sisapOOP.exe.config
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\bin\Debug\sisapOOP.exe
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\bin\Debug\sisapOOP.pdb
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\obj\Debug\sisapOOP.csprojAssemblyReference.cache
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\obj\Debug\sisapOOP.csproj.CoreCompileInputs.cache
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\obj\Debug\sisapOOP.exe
+D:\18.11.2279\Pertemuan 6\sisapOOP\sisapOOP\obj\Debug\sisapOOP.pdb
